@@ -31,7 +31,7 @@ Multiple models were compared before selecting the final one.
 | Gradient Boosting | 82.1% | 82.7% |
 | **Random Forest** ✅ | **84.4%** | **81.5%** |
 
-**Random Forest** was selected as the final model — it achieved the highest test accuracy of 84.4% with a consistent CV mean of 81.5%, confirming it generalises well on unseen data.
+Random Forest was selected as the final model, achieving the highest test accuracy of 84.4% along with a stable cross-validation mean of 81.5%, indicating strong generalization to unseen data.
 
 **Features used:** `Pclass`, `Sex`, `Age`, `Fare`, `Embarked`, `FamilySize`, `IsAlone`, `Title`
 
@@ -53,6 +53,7 @@ Multiple models were compared before selecting the final one.
 
 ## 📊 Results
 The model performed better at predicting non-survivors compared to survivors, as seen in the confusion matrix.
+
 | Metric | Score |
 |---|---|
 | Test Accuracy | **84.4%** |
