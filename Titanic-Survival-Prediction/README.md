@@ -58,17 +58,20 @@ The model performed better at predicting non-survivors compared to survivors, as
 | Test Accuracy | **84.4%** |
 | CV Mean (5-fold) | **81.5%** |
 
+---
 
 ## 🔍 Key Insights
 - Female passengers had higher survival rates  
 - First-class passengers were more likely to survive  
 - Traveling alone reduced survival chances
-  
+
+---
 
 ## 🔮 Example Prediction
-Prediction: Did NOT Survive  
-Probability: Died (0.95), Survived (0.05)
+A sample passenger (male, 3rd class, age 25) was predicted as:
 
+- Prediction: Did NOT Survive  
+- Probability: Died (0.95), Survived (0.05)
 
 ---
 
