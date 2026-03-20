@@ -35,6 +35,20 @@ Multiple models were compared before selecting the final one.
 
 **Features used:** `Pclass`, `Sex`, `Age`, `Fare`, `Embarked`, `FamilySize`, `IsAlone`, `Title`
 
+## 📊 Visualizations
+
+### Model Comparison
+![Model Comparison](model_comparison.png)
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+### Feature Importance
+![Feature Importance](feature_importance.png)
+
+### Age Distribution
+![Age Distribution](age_distribution.png)
+
 ---
 
 ## 📊 Results
