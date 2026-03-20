@@ -46,6 +46,12 @@ Multiple models were compared before selecting the final one.
 
 ---
 
+## 💾 Model Saving
+
+The trained model was saved using Joblib and can be reused for predictions without retraining.
+
+---
+
 ## 🚀 Run Locally
 
 ```bash
