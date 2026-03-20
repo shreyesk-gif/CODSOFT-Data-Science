@@ -57,6 +57,7 @@ Multiple models were compared before selecting the final one.
 |---|---|
 | Test Accuracy | **84.4%** |
 | CV Mean (5-fold) | **81.5%** |
+The model performed better at predicting non-survivors compared to survivors, as seen in the confusion matrix.
 
 ---
 
@@ -70,7 +71,7 @@ The trained model was saved using Joblib and can be reused for predictions witho
 
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
-jupyter notebook titanic_survival.ipynb
+Titanic_Survival_Prediction.ipynb
 ```
 
 ---
