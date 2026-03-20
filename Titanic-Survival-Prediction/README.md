@@ -52,12 +52,12 @@ Multiple models were compared before selecting the final one.
 ---
 
 ## 📊 Results
-
+The model performed better at predicting non-survivors compared to survivors, as seen in the confusion matrix.
 | Metric | Score |
 |---|---|
 | Test Accuracy | **84.4%** |
 | CV Mean (5-fold) | **81.5%** |
-The model performed better at predicting non-survivors compared to survivors, as seen in the confusion matrix.
+
 
 ---
 
